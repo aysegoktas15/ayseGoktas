@@ -19,12 +19,12 @@
 
 #### :computer: I recently work with:
 
-* HTML5
-* CSS3, 
-* Javascript ES6+
-* NodeJS
-* C#, .Net/.Net Core Framework, Entity Framework Core, Code First
-* MySQL, SQL
-* Github
-* Azure
+* C#, .Net/.Net Core Framework, Entity Framework Core, Code First;
+* HTML5;
+* CSS3;
+* Javascript ES6+;
+* NodeJS;
+* MySQL, SQL;
+* Github;
+* Azure;
 
