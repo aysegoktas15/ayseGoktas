@@ -27,5 +27,4 @@
 * MySQL, SQL;
 * Github;
 * Azure;
-* 
-
+  
