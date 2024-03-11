@@ -19,7 +19,7 @@
 
 #### :computer: I recently work with:
 
-* C#, .Net/.Net Core Framework, Entity Framework Core, Code First;
+* C#, .Net/.Net Core Framework, Entity Framework Core, Code First, Mvc;
 * HTML5;
 * CSS3;
 * Javascript ES6+;
