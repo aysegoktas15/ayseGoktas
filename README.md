@@ -20,10 +20,11 @@
 #### :computer: I recently work with:
 
 * C#, .Net/.Net Core Framework, Entity Framework Core, Code First, Mvc;
+* PHP;
 * HTML5;
-* CSS3;
+ CSS3;
 * Javascript ES6+;
 * NodeJS;
 * MySQL, SQL;
 * Github;
-* Azure;
+* Adobe XD
