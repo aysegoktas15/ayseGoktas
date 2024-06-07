@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @aysegoktas15 .
+# Hello world!
+- 👋 I’m @aysegoktas15 .
 - 👀 I’m interested in books <3
 - 🌱 I’m currently learning Javscript.
 - 💞️ I’m not looking to collaborate on something right now.
